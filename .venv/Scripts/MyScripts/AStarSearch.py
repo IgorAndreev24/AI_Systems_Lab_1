@@ -33,7 +33,7 @@ def manhattanDistance(state, target):
     for i in range(3):
         for j in range(3):
             tile = state[i][j]
-            if tile != 0:  # Ignore the blank tile
+            if tile != 0: 
                 targetRow, targetCol = np.where(target == tile)
                 distance += abs(i - targetRow[0]) + abs(j - targetCol[0])
     return distance
