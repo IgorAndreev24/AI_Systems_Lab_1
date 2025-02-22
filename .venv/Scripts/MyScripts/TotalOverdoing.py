@@ -41,11 +41,12 @@ def totalOverdoing(matrix,target):
             print("Целенаправленность перебора: ", (len(path) - 1) / iterationCount)
             print("Показать путь? Y/N:")
             while (1):
-                if (input() == "Y"):
+                ch = input()
+                if (ch == "Y"):
                     for p in path:
                         print(p)
                     return
-                elif (input() == "N"):
+                elif (ch == "N"):
                     return
             break
 
