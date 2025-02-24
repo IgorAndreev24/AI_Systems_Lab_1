@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b32d30-9056-48bc-bfec-2e411e296aad" name="Changes" comment="Commit 1" />
+    <list default="true" id="31b32d30-9056-48bc-bfec-2e411e296aad" name="Changes" comment="Commit 1">
+      <change beforePath="$PROJECT_DIR$/.idea/AI_Systems_Lab_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Systems_Lab_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/MyScripts/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/MyScripts/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +52,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/rogia/PycharmProjects/AI_Systems_Lab_1"
   }
 }]]></component>
@@ -60,7 +64,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>

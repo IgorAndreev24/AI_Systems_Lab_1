@@ -5,9 +5,9 @@ import EqualPrice
 import DepthSearch
 import AStarSearch
 
-matrix = np.array([[1, 3, 6],
-                   [5, 4, 7],
-                   [0, 8, 2]])
+matrix = np.array([[2, 8, 3],
+                   [1, 6, 4],
+                   [7, 0, 5]])
 
 target = np.array([[1, 2, 3],
                    [8, 0, 4],
